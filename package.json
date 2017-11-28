@@ -20,7 +20,7 @@
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
     "cheerio": "^1.0.0",
-    "tinyreq": "^0.1.1",
+    "tinyreq": "^3.3.0",
     "request": "^2.75.0",
     "fs-extra": "^0.30.0",
     "md5": "^2.2.1",
