@@ -2,7 +2,7 @@
   "name": "gladys-joke",
   "version": "0.1.0",
   "description": "Make Gladys to be able to tell a joke !",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,12 +20,12 @@
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "tinyreq": "^3.3.0",
-    "request": "^2.75.0",
     "fs-extra": "^0.30.0",
+    "lame": "^1.2.4",
     "md5": "^2.2.1",
     "queue": "^4.0.0",
-    "speaker": "^0.3.0",
-    "lame": "^1.2.4"
+    "request": "^2.75.0",
+    "speaker": "^0.4.0",
+    "tinyreq": "^3.3.0"
   }
 }

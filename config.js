@@ -5,4 +5,5 @@ module.exports = {
         jokeSelector: process.env.JOKE_SELECTOR || '.blague'
     },
     language: process.env.RECOGNITION_LANGUAGE ||'fr-FR',
+    gong: '../data/jokedropping.mp3'
 };
